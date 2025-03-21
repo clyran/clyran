@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on indoor instant 3D reconstruction
 - 🤔 I’m looking for help with indoor instant 3D reconstruction
 - 💬 Ask me about Nothing
-- 📫 How to reach me: cuili@buaa.edu.cn
+- 📫 How to reach me: licui_cl@buaa.edu.cn
 - ⚡ Fun fact: I'm a master student
